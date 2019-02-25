@@ -1,0 +1,13 @@
+entity Persona {
+	nombre String,
+    apellido String,
+    genero String
+       
+}
+
+entity Candidato {
+	imagen String,
+    num_lista String,
+    cod_persona Integer
+}
+
